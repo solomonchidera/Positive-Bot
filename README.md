@@ -1,4 +1,7 @@
 # Positive-Bot
+
+![Solomon's cool Logo](https://avatars.githubusercontent.com/u/147830328?s=400&u=23190734f501bc4a3515d6723d33014832aea7ae&v=4)
+
 A discord bot that checks for most common sad keywords and reply back with positive words to boost your mode.
 
 *Having the future taken away is the mother of all plot twists,*
