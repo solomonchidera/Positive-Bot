@@ -11,6 +11,7 @@ A discord bot that checks for most common sad keywords and reply back with posit
 - Detect messages that has sad words,
 - and it will send you back Motivational quotes upon request! ;)
 ### Installation
+Still in production phase
   ---
   <h3>
     License
